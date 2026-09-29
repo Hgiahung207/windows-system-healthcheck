@@ -1,0 +1,30 @@
+---------------- WINDOWS SYSTEM HEALTH REPORT -----------------
+
+Report Generated on: 2026/09/29 02:23:44
+
+---------------------- BASIC SYSTEM INFO ----------------------
+
+Computer Name: HGIAHUNG
+Operation System Platform: 500, Version: 10.0
+
+---------- CHECKING THE STATUS OF IMPORTANT SERVICES ----------
+
+wuauserv Service Status: STOPPED
+WinDefend Service Status: RUNNING
+EventLog Service Status: RUNNING
+Spooler Service Status: RUNNING
+
+* WARNING: THE FOLLOWING SERVICES ARE STOPPED -> wuauserv
+
+----------------- CHECKING IMPORTANT PROCESSES ----------------
+
+Total running processes: 276
+explorer.exe running: YES
+svchost.exe running: YES
+winlogon.exe running: NO
+
+----------------- CHECKING C: DRIVE FREE SPACE ----------------
+
+C: Drive Free Space: 110.15 GB (39.4% free)
+
+------------------------- END OF REPORT ------------------------
